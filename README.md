@@ -1,1 +1,1 @@
-Just a site i made following the Scrimba course
+Just a site i made following the Scrimba Javascript course
